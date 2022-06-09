@@ -8,15 +8,16 @@
 
 
 演示软件的部分设计界面效果图:
-![Image text](https://github.com/HenJigg/MaterialDesign-WPF-MVVM-Smaple/blob/master/ZFS/imgfiles/Main.png)
 
-![Image text](https://github.com/HenJigg/MaterialDesign-WPF-MVVM-Smaple/blob/master/ZFS/imgfiles/UIDesign.png)
+![Image text](ZFS/imgfiles/Main.png)
 
-![Image text](https://github.com/HenJigg/MaterialDesign-WPF-MVVM-Smaple/blob/master/ZFS/imgfiles/UserDesign.png)
+![Image text](ZFS/imgfiles/UIDesign.png)
 
-![Image text](https://github.com/HenJigg/MaterialDesign-WPF-MVVM-Smaple/blob/master/ZFS/imgfiles/AuthDesign.png)
+![Image text](ZFS/imgfiles/UserDesign.png)
 
-![Image text](https://github.com/HenJigg/MaterialDesign-WPF-MVVM-Smaple/blob/master/ZFS/imgfiles/Generator.png)
+![Image text](ZFS/imgfiles/AuthDesign.png)
+
+![Image text](ZFS/imgfiles/Generator.png)
 
 # QQ交流群 : 874752819
 # 博客地址:www.cnblogs.com/zh7791
